@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.navbar{
+    display: flex;
+    width: 996px;
+    height: 44px;
+    padding-right: 0px;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 24.75px;
+    flex-shrink: 0;
+    
+
+}
